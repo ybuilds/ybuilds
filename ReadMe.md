@@ -13,7 +13,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ybuilds&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### 🔝 Top Langugage
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ybuilds)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ybuilds)](https://github.com/ybuilds)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ybuilds&limit=5&theme=dark&combine_all_yearly_contributions=true)
