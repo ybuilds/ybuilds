@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 A PG scholar actively working on building scalable micro-services with Go<br>🌱 I’m currently exploring and building beautiful mobile apps with Flutter
+🔭 A PG scholar actively working on building scalable micro-services with Java and Go<br>🌱 I’m currently exploring and building beautiful mobile apps with Flutter<br>💡 A seasoned professional experienced in developing Java and Spring Boot applications<br> ✅ Oracle SQL Database Certified Associate (1Z0-071)
 
 
 ## 🌐 Socials:
